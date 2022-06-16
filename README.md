@@ -8,6 +8,13 @@ Granular hydrogels have emerged as promising candidate materials for a range of 
 
 # Repository structure
 
+### Structured empirical databases 
+- Dataset_MicrogelFormation_and_MicrogelShape
+- 
+
+### Final databases fully processed for ML 
+
+
 Datasets (structured empirical databases, final databases fully processed for ML)
 
 Analysis (data-driven modeling notebooks, data-driven prediction matrices) 
