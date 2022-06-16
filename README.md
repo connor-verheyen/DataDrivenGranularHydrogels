@@ -8,6 +8,7 @@ Granular hydrogels have emerged as promising candidate materials for a range of 
 
 # Repository structure
 
+## Data
 ### Base datasets (structured empirical results)
 - Dataset_MicrogelFormation_and_MicrogelShape
 - Dataset_Microgel_InitialSize_and_SizeEvolutionInFluids
@@ -34,8 +35,11 @@ Granular hydrogels have emerged as promising candidate materials for a range of 
 - Data_for_Model_Predicting_Extrusion_FinalModel_BinaryStability
 - ______________________________________________________________
 
-### 
+## Analysis
+### Data-driven modeling notebooks 
 
-Analysis (data-driven modeling notebooks, data-driven prediction matrices) 
+### Data-driven prediction matrices 
 
-Scripts and functions???
+
+
+## Add separate section for cripts and functions???????
