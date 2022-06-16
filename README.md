@@ -20,7 +20,7 @@ Granular hydrogels have emerged as promising candidate materials for a range of 
 - Dataset_FollowUp_QuantitativeExtrusion_Compiled_ExtractedValues
 - Dataset_FollowUp_QuantitativeExtrusion_Compiled_FullCurves_CondensedDownsampled
 
-### Final datasets [fully processed for a given supervised ML problem]
+### Final datasets \[fully processed for a given supervised ML problem\]
 - Data_for_Model_Predicting_Microgel_Formation
 - Data_for_Model_Predicting_Microgel_Shape
 - Data_for_Model_Predicting_Microgel_Initial_Size
@@ -37,7 +37,7 @@ Granular hydrogels have emerged as promising candidate materials for a range of 
 - Data_for_Model_Predicting_Extrusion_FinalModel_FullCurves
 
 ## Analysis
-### Data-driven modeling notebooks [in Python, with integrated code, full analytical pipelines, and results]
+### Data-driven modeling notebooks \[in Python, with integrated code, full analytical pipelines, and results\]
 - Model_Predicting_Microgel_Formation
 - Model_Predicting_Microgel_Shape
 - Model_Predicting_Microgel_Initial_Size
@@ -53,7 +53,7 @@ Granular hydrogels have emerged as promising candidate materials for a range of 
 - Model_Predicting_Extrusion_FinalModel_BinaryStability
 - Model_Predicting_Extrusion_FinalModel_FullCurves
 
-### Data-driven prediction matrices [predicted outputs from the trained models]
+### Data-driven prediction matrices \[predicted outputs from the trained models\]
 - Predictions_for_Model_Predicting_Microgel_Formation
 - Predictions_for_Model_Predicting_Microgel_Shape
 - Predictions_for_Model_Predicting_Microgel_Initial_Size
