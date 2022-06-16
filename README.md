@@ -5,7 +5,6 @@ Granular hydrogels have emerged as promising candidate materials for a range of 
 
 ![Visual overview](/data/Fig1_v1.png)
 
-
 # Repository structure
 
 ## Data
@@ -20,7 +19,7 @@ Granular hydrogels have emerged as promising candidate materials for a range of 
 - Dataset_FollowUp_QuantitativeExtrusion_Compiled_ExtractedValues
 - Dataset_FollowUp_QuantitativeExtrusion_Compiled_FullCurves_CondensedDownsampled
 
-### Final datasets (fully processed for supervised ML)
+### Final datasets (fully processed for a given supervised ML problem)
 - Data_for_Model_Predicting_Microgel_Formation
 - Data_for_Model_Predicting_Microgel_Shape
 - Data_for_Model_Predicting_Microgel_Initial_Size
@@ -31,15 +30,42 @@ Granular hydrogels have emerged as promising candidate materials for a range of 
 - Data_for_Model_Predicting_Rheo_SingleOutput_OscYieldStress
 - Data_for_Model_Predicting_Rheo_SingleOutput_OscYieldStrain
 - Data_for_Model_Predicting_Rheo_SingleOutput_FlowCurves
+- Data_for_Model_Predicting_Rheo_SingleOutput_RotYieldStress (supplemental only)
 - Data_for_Model_Predicting_Extrusion_PreliminaryModel
 - Data_for_Model_Predicting_Extrusion_FinalModel_BinaryStability
-- ______________________________________________________________
+- Data_for_Model_Predicting_Extrusion_FinalModel_FullCurves
 
-### Analysis
-#### Data-driven modeling notebooks 
+## Analysis
+### Data-driven modeling notebooks (interactive Python notebooks with integrated code, analytical pipelines, and results)
+- Model_Predicting_Microgel_Formation
+- Model_Predicting_Microgel_Shape
+- Model_Predicting_Microgel_Initial_Size
+- Model_Predicting_Microgel_Evolution_in_Fluids
+- Model_Predicting_PhaseSep_VolumeFraction
+- Model_Predicting_Rheo_MultiOutput_OscStressCurves
+- Model_Predicting_Rheo_MultiOutput_OscStrainCurves
+- Model_Predicting_Rheo_SingleOutput_OscYieldStress
+- Model_Predicting_Rheo_SingleOutput_OscYieldStrain
+- Model_Predicting_Rheo_SingleOutput_FlowCurves
+- Model_Predicting_Rheo_SingleOutput_RotYieldStress (supplemental only)
+- Model_Predicting_Extrusion_PreliminaryModel
+- Model_Predicting_Extrusion_FinalModel_BinaryStability
+- Model_Predicting_Extrusion_FinalModel_FullCurves
 
-#### Data-driven prediction matrices 
+### Data-driven prediction matrices (predicted outputs from the trained models)
+- Predictions_for_Model_Predicting_Microgel_Formation
+- Predictions_for_Model_Predicting_Microgel_Shape
+- Predictions_for_Model_Predicting_Microgel_Initial_Size
+- Predictions_for_Model_Predicting_Microgel_Evolution_in_Fluids
+- Predictions_for_Model_Predicting_PhaseSep_VolumeFraction
+- Predictions_for_Model_Predicting_Rheo_MultiOutput_OscStressCurves
+- Predictions_for_Model_Predicting_Rheo_MultiOutput_OscStrainCurves
+- Predictions_for_Model_Predicting_Rheo_SingleOutput_OscYieldStress
+- Predictions_for_Model_Predicting_Rheo_SingleOutput_OscYieldStrain
+- Predictions_for_Model_Predicting_Rheo_SingleOutput_FlowCurves
+- Predictions_for_Model_Predicting_Rheo_SingleOutput_RotYieldStress (supplemental only)
+- Predictions_for_Model_Predicting_Extrusion_PreliminaryModel
+- Predictions_for_Model_Predicting_Extrusion_FinalModel_BinaryStability
+- Predictions_for_Model_Predicting_Extrusion_FinalModel_FullCurves
 
-
-
-## Add separate section for cripts and functions???????
+## Add separate section for scripts and functions???????
