@@ -53,7 +53,7 @@ Granular hydrogels have emerged as promising candidate materials for a range of 
 - Model_Predicting_Extrusion_FinalModel_BinaryStability
 - Model_Predicting_Extrusion_FinalModel_FullCurves
 
-### Data-driven prediction matrices (predicted outputs from the trained models)
+### Data-driven prediction matrices [predicted outputs from the trained models]
 - Predictions_for_Model_Predicting_Microgel_Formation
 - Predictions_for_Model_Predicting_Microgel_Shape
 - Predictions_for_Model_Predicting_Microgel_Initial_Size
