@@ -8,7 +8,7 @@ Granular hydrogels have emerged as promising candidate materials for a range of 
 # Repository structure
 
 ## Data
-### Base datasets (structured empirical results)
+### Base datasets (structured empirical results from each experimental phase)
 - Dataset_MicrogelFormation_and_MicrogelShape
 - Dataset_Microgel_InitialSize_and_SizeEvolutionInFluids
 - Dataset_PhaseSepVolumeFractionEstimation
