@@ -8,14 +8,33 @@ Granular hydrogels have emerged as promising candidate materials for a range of 
 
 # Repository structure
 
-### Structured empirical databases 
+### Base datasets (structured empirical results)
 - Dataset_MicrogelFormation_and_MicrogelShape
-- 
+- Dataset_Microgel_InitialSize_and_SizeEvolutionInFluids
+- Dataset_PhaseSepVolumeFractionEstimation
+- Dataset_CompilingAllRheology
+- Dataset_PrelimFunctionalExtrusionScreening
+- Dataset_FollowUp_QuantitativeExtrusion_Compiled_ExtractedValues
+- Dataset_FollowUpRheologicalStudy_FittedParamsForExtrusionModeling
+- Dataset_FollowUp_QuantitativeExtrusion_Compiled_ExtractedValues
+- Dataset_FollowUp_QuantitativeExtrusion_Compiled_FullCurves_CondensedDownsampled
 
-### Final databases fully processed for ML 
+### Final datasets (fully processed for supervised ML)
+- Data_for_Model_Predicting_Microgel_Formation
+- Data_for_Model_Predicting_Microgel_Shape
+- Data_for_Model_Predicting_Microgel_Initial_Size
+- Data_for_Model_Predicting_Microgel_Evolution_in_Fluids
+- Data_for_Model_Predicting_PhaseSep_VolumeFraction
+- Data_for_Model_Predicting_Rheo_MultiOutput_OscStressCurves
+- Data_for_Model_Predicting_Rheo_MultiOutput_OscStrainCurves
+- Data_for_Model_Predicting_Rheo_SingleOutput_OscYieldStress
+- Data_for_Model_Predicting_Rheo_SingleOutput_OscYieldStrain
+- Data_for_Model_Predicting_Rheo_SingleOutput_FlowCurves
+- Data_for_Model_Predicting_Extrusion_PreliminaryModel
+- Data_for_Model_Predicting_Extrusion_FinalModel_BinaryStability
+- ______________________________________________________________
 
-
-Datasets (structured empirical databases, final databases fully processed for ML)
+### 
 
 Analysis (data-driven modeling notebooks, data-driven prediction matrices) 
 
