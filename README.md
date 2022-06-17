@@ -43,7 +43,7 @@ Granular hydrogels have emerged as promising candidate materials for a range of 
 
 ## Analysis
 
-### Data-driven modeling notebooks \[in Python - with integrated code, full analytical pipelines, and results\]
+### Data-driven modeling notebooks \[in Python - with codes, ML pipelines, and results\]
 
 - Model_Predicting_Microgel_Formation
 - Model_Predicting_Microgel_Shape
