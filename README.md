@@ -43,7 +43,7 @@ Granular hydrogel matrices have emerged as promising candidates for cell encapsu
 
 ## Analysis
 
-### Data-driven modeling notebooks \[in Python - with codes, ML pipelines, and results\]
+### Data-driven modeling notebooks \[in Python - with full ML pipelines and results\]
 
 - Model_Predicting_Microgel_Formation
 - Model_Predicting_Microgel_Shape
