@@ -8,7 +8,7 @@ Granular hydrogel matrices have emerged as promising candidates for cell encapsu
 ![Visual overview](/data/Fig1_v2.png)
 (A) The data-driven modeling paradigm leverages machine learning to build predictive frameworks directly from data itself. (A) The traditional paradigm relies on empirical exploration to optimize structures, properties, and performance of soft materials. (C-F) Our approach combines data-driven modeling with experimentation to map complex input-output relationships for granular matrices at each stage of development.
 
-# Repository structure
+## Repository structure
 
 ### Data
 
