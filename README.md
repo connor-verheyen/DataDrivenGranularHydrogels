@@ -2,24 +2,19 @@
 # Integrated data-driven modeling and experimental optimization of granular hydrogel matrices
 
 
-
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 need to update this section below:
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 
 *This repository contains code, data, and SI Material for the paper:
-C. A. Verheyen and  L. Bourouiba (2022) Associations between indoor relative humidity and global COVID-19 outcomes. Journal of the Royal Society Interface, doi.10.1098/rsif.2021.0856.*
+C. A. Verheyen, S.G.M. Uzel, A. Kurum, E. T. Roche, J. A. Lewis (2023) Integrated data-driven modeling and experimental optimization of granular hydrogel matrices. Matter, doi.10.1098/rsif.2021.0856.*
 
 *Citation:
-Please cite C. A. Verheyen and  L. Bourouiba (2022) Associations between indoor relative humidity and global COVID-19 outcomes. Journal of the Royal Society Interface, doi.10.1098/rsif.2021.0856. when using any part of this repository or associated Zenodo.*
+Please cite C. A. Verheyen, S.G.M. Uzel, A. Kurum, E. T. Roche, J. A. Lewis (2023) Integrated data-driven modeling and experimental optimization of granular hydrogel matrices. Matter, doi.10.1098/rsif.2021.0856. when using any part of this repository or associated Zenodo archive.*
 
 Journal article DOI: 10.1098/rsif.2021.0856
 
 [![DOI](https://zenodo.org/badge/DOI/10.1098/rsif.2021.0856.svg)](https://doi.org/10.1098/rsif.2021.0856)
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 
 Zenodo code/data archive DOI: 10.5281/zenodo.7506819
