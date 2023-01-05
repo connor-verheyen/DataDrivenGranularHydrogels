@@ -11,13 +11,13 @@ C. A. Verheyen, S.G.M. Uzel, A. Kurum, E. T. Roche, J. A. Lewis (2023) Integrate
 *Citation:
 Please cite C. A. Verheyen, S.G.M. Uzel, A. Kurum, E. T. Roche, J. A. Lewis (2023) Integrated data-driven modeling and experimental optimization of granular hydrogel matrices. Matter, doi.10.1098/rsif.2021.0856. when using any part of this repository or associated Zenodo archive.*
 
-Journal article DOI: 10.1098/rsif.2021.0856
+Journal article:
 
 [![DOI](https://zenodo.org/badge/DOI/10.1098/rsif.2021.0856.svg)](https://doi.org/10.1098/rsif.2021.0856)
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 
-Zenodo code/data archive DOI: 10.5281/zenodo.7506819
+Zenodo code/data archive: 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7506819.svg)](https://doi.org/10.5281/zenodo.7506819)
 
