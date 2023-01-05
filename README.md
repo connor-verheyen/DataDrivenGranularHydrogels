@@ -1,6 +1,27 @@
 
 # Integrated data-driven modeling and experimental optimization of granular hydrogel matrices
 
+
+____UPDATE____ 
+
+*This repository contains code, data, and SI Material for the paper:
+C. A. Verheyen and  L. Bourouiba (2022) Associations between indoor relative humidity and global COVID-19 outcomes. Journal of the Royal Society Interface, doi.10.1098/rsif.2021.0856.*
+
+*Citation:
+Please cite C. A. Verheyen and  L. Bourouiba (2022) Associations between indoor relative humidity and global COVID-19 outcomes. Journal of the Royal Society Interface, doi.10.1098/rsif.2021.0856. when using any part of this repository or associated Zenodo.*
+
+
+Journal article DOI: 10.1098/rsif.2021.0856
+
+[![DOI](https://zenodo.org/badge/DOI/10.1098/rsif.2021.0856.svg)](https://doi.org/10.1098/rsif.2021.0856)
+
+
+Zenodo code/data archive DOI: 10.5281/zenodo.7195704
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7195704.svg)](https://doi.org/10.5281/zenodo.7195704)
+
+____UPDATE____
+
 ### Project abstract
 
 Granular hydrogel matrices have emerged as promising candidates for cell encapsulation, bioprinting, and tissue engineering. However, the design and optimization of these materials remain challenging given their broad compositional and processing parameter space. Here, we combine experimentation and computation to create granular matrices composed of alginate-based bioblocks with controlled structure, rheological properties, and injectability profiles. A custom machine learning pipeline is applied after each phase of experimentation to automatically map the multidimensional input-output patterns into condensed data-driven models. These models are used to assess generalizable predictability and define high-level design rules to guide subsequent phases of development and characterization. Our integrated approach opens new avenues to understanding and controlling the behavior of complex soft materials.
