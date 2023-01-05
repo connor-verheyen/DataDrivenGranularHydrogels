@@ -20,8 +20,7 @@ Zenodo code/data archive DOI: 10.5281/zenodo.7195704
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7195704.svg)](https://doi.org/10.5281/zenodo.7195704)
 
-____UPDATE____
-
+_UPDATE_
 ### Project abstract
 
 Granular hydrogel matrices have emerged as promising candidates for cell encapsulation, bioprinting, and tissue engineering. However, the design and optimization of these materials remain challenging given their broad compositional and processing parameter space. Here, we combine experimentation and computation to create granular matrices composed of alginate-based bioblocks with controlled structure, rheological properties, and injectability profiles. A custom machine learning pipeline is applied after each phase of experimentation to automatically map the multidimensional input-output patterns into condensed data-driven models. These models are used to assess generalizable predictability and define high-level design rules to guide subsequent phases of development and characterization. Our integrated approach opens new avenues to understanding and controlling the behavior of complex soft materials.
