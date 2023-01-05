@@ -14,19 +14,17 @@ C. A. Verheyen and  L. Bourouiba (2022) Associations between indoor relative hum
 *Citation:
 Please cite C. A. Verheyen and  L. Bourouiba (2022) Associations between indoor relative humidity and global COVID-19 outcomes. Journal of the Royal Society Interface, doi.10.1098/rsif.2021.0856. when using any part of this repository or associated Zenodo.*
 
-
 Journal article DOI: 10.1098/rsif.2021.0856
 
 [![DOI](https://zenodo.org/badge/DOI/10.1098/rsif.2021.0856.svg)](https://doi.org/10.1098/rsif.2021.0856)
 
-
-Zenodo code/data archive DOI: 10.5281/zenodo.7195704
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7195704.svg)](https://doi.org/10.5281/zenodo.7195704)
-
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+
+Zenodo code/data archive DOI: 10.5281/zenodo.7506819
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7506819.svg)](https://doi.org/10.5281/zenodo.7506819)
 
 
 
