@@ -1,17 +1,15 @@
 
 # Integrated data-driven modeling and experimental optimization of granular hydrogel matrices
 
-This repository contains code, data, and SI Material for the paper:
+This repository contains code, data, and SI Material for the following paper:
 
-C. A. Verheyen, S.G.M. Uzel, A. Kurum, E. T. Roche, J. A. Lewis (2023) Integrated data-driven modeling and experimental optimization of granular hydrogel matrices. Matter, https://doi.org/10.1016/j.matt.2023.01.011
+Connor A. Verheyen, Sebastien G.M. Uzel, Armand Kurum, Ellen T. Roche, Jennifer A. Lewis, Integrated data-driven modeling and experimental optimization of granular hydrogel matrices, Matter, 2023, ISSN 2590-2385, https://doi.org/10.1016/j.matt.2023.01.011.
 
-Citation:
-
-Please cite C. A. Verheyen, S.G.M. Uzel, A. Kurum, E. T. Roche, J. A. Lewis (2023) Integrated data-driven modeling and experimental optimization of granular hydrogel matrices. Matter, https://doi.org/10.1016/j.matt.2023.01.011 when using any part of this repository or associated Zenodo archive.
+Please cite the paper when using any part of this repository or associated Zenodo archive.
 
 Journal article:
 
-[![DOI](https://zenodo.org/badge/DOI/10.1098/rsif.2021.0856.svg)](https://doi.org/10.1016/j.matt.2023.01.011)
+[![DOI](https://zenodo.org/badge/DOI/10.1016/j.matt.2023.01.011.svg)](https://doi.org/10.1016/j.matt.2023.01.011)
 
 Zenodo code/data archive: 
 
