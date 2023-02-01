@@ -5,7 +5,7 @@ This repository contains code, data, and SI Material for the following paper:
 
 Connor A. Verheyen, Sebastien G.M. Uzel, Armand Kurum, Ellen T. Roche, Jennifer A. Lewis, Integrated data-driven modeling and experimental optimization of granular hydrogel matrices, Matter, 2023, ISSN 2590-2385, https://doi.org/10.1016/j.matt.2023.01.011.
 
-Please cite the paper when using any part of this repository or associated Zenodo archive.
+Please cite the journal article when using any part of this repository or associated Zenodo archive.
 
 Journal article:
 
